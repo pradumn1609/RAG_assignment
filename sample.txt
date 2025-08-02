@@ -1,0 +1,6 @@
+
+Unit 1: Introduction to AI - Basics of Artificial Intelligence, Applications, History.
+Unit 2: Machine Learning - Supervised and Unsupervised Learning, Algorithms.
+Unit 3: Deep Learning - Neural Networks, CNNs, RNNs.
+Unit 4: Natural Language Processing - Text pre-processing, Transformers.
+Unit 5: Ethics in AI - Fairness, Bias, Legal concerns.
